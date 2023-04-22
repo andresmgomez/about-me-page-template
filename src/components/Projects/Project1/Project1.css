@@ -1,0 +1,68 @@
+.project-gallery {
+   padding-top: 120px;
+   padding-bottom: 110px;
+   background-color: #0a1a3c;
+}
+
+.project-idea h5 {
+   margin-bottom: 20px;
+   color: #ff5f13;;
+   font-size: 18px;
+   font-weight: 600;
+   text-transform: capitalize;
+}
+
+.project-idea h2 {
+   color: #fff;
+   font-size: 30px;
+   font-weight: 700;
+   margin-bottom: 20px;
+}
+
+.project-idea p {
+   font-size: 16px;
+   color: #cdcbcb;
+}
+
+.project-idea h4 {
+   margin-top: 20px;
+   margin-bottom: 10px;
+   color: #ff5f13;;
+   font-size: 17px;
+}
+
+.project-features li {
+   position: relative;
+   padding-left: 30px;
+   color: #f1f1f1;
+   font-weight: 500;
+   line-height: 1.82em;
+   list-style-type: none;
+}
+
+.project-features li:before {
+   position: absolute;
+   content: "";
+   top: 8px;
+   left: 0;
+   width: 14px;
+   height: 14px;
+   border: 3px solid #fff;
+   background-color: #ff5f13;
+   border-radius: 50%;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   -ms-border-radius: 50%;
+   -o-border-radius: 50%;
+}
+
+.project-photo img {
+   max-width: 100%;
+   transform: scale(0.8);
+   -webkit-transform: scale(0.8);
+   -moz-transform: scale(0.8);
+   -ms-transform: scale(0.8);
+   -o-transform: scale(0.8);
+}
+
+

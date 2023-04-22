@@ -1,0 +1,12 @@
+.quote-right {
+   min-height: 350px;
+   padding: 50px 0px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   background-image: url(../../../assets/quote-bg.jpg);
+}
+
+.quote-right .author {
+   padding-bottom: 15px;
+}
