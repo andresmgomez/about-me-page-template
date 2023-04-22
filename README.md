@@ -4,7 +4,7 @@ A simple layout for an about page to be used as a reference.
 
 
 <div align="center">
-  <img src="https://github.com/andresmgomez/about-me-page-template/blob/master/screenshot/about.gif" alt="About preview" width="600px" />
+  <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/about.gif" alt="About preview" width="800px" />
   <br>
 </div>
 
