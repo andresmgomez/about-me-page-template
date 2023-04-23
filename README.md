@@ -7,7 +7,7 @@
   <br>
 </div>
 
-### Features
+## Features
 
 ✅ Use bootstrap for responsive layout\
 ✅ Use CSS to style different sections\

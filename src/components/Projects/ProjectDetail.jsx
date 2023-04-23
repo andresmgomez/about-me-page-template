@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-import kiosk from "../../../assets/kiosk.png";
-import "./Project1.css";
+import kiosk from "../../images/kiosk.png";
+import "./ProjectDetail.css";
 
 export default function Project1() {
 	return (

@@ -1,13 +1,13 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import culture from "../../../assets/icons/culture.png";
-import mentor from "../../../assets/icons/mentor.png";
-import agile from "../../../assets/icons/agile-learn.png";
+import culture from "../../images/icons/culture.png";
+import mentor from "../../images/icons/mentor.png";
+import agile from "../../images/icons/agile-learn.png";
 
-import "./Workplace1.css";
+import "./WorkplaceCols.css";
 
-export default function Workplace1() {
+export default function WorkplaceCols() {
 	return (
 		<section className="cards-workplace">
 			<Container>
@@ -26,7 +26,7 @@ export default function Workplace1() {
 							</div>
 							<div className="workplace-quality">
 								<h5>
-									<a href="#">Company Culture</a>
+									<a href="#company">Company Culture</a>
 								</h5>
 								<p>
 									I value a company where I can freely share my ideas. Receive
@@ -42,12 +42,12 @@ export default function Workplace1() {
 								<img
 									className="zoom-icon img-fluid"
 									src={mentor}
-									alt="Company culture"
+									alt="Mentorship learning"
 								/>
 							</div>
 							<div className="workplace-quality">
 								<h5>
-									<a href="#">Mentorship</a>
+									<a href="#mentorship">Mentorship</a>
 								</h5>
 								<p>
 									I would like to start in a company where I can learn how to
@@ -60,11 +60,11 @@ export default function Workplace1() {
 					<Col sm={12} md={4}>
 						<div className="workplace-topic">
 							<div className="workplace-icon">
-								<img className="img-fluid" src={agile} alt="Company culture" />
+								<img className="img-fluid" src={agile} alt="Agile environment" />
 							</div>
 							<div className="workplace-quality">
 								<h5>
-									<a href="#">Agile Environment</a>
+									<a href="#agile">Agile Environment</a>
 								</h5>
 								<p>
 									I have learned how to work in a project, where I can learn

@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import author from "../../../assets/author.png";
-import "./Quote1.css";
+import author from "../../../images/sculpture.png";
+import "./QuoteRight.css";
 
-export default function Quote1() {
+export default function QuoteRight() {
 	return (
 		<section className="quote-right">
 			<Container>

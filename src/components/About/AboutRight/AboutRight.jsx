@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-import myPhoto from "../../../assets/my-photo1.jpg";
+import myPhoto from "../../../images/my-photo.jpg";
 
 import "./AboutRight.css";
 

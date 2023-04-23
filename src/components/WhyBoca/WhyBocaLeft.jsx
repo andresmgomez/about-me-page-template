@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-import "./WhyBoca1.css";
+import "./WhyBocaLeft.css";
 
-export default function WhyBoca1() {
+export default function WhyBocaLeft() {
 	return (
 		<section class="why-boca">
 			<Container>

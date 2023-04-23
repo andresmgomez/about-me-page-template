@@ -16,10 +16,10 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-bottom: 15px;
+  color: #10285d;
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
-  color: #10285d;
   line-height: 30px;
 }
 
@@ -39,6 +39,26 @@ a:hover {
 a, button {
   color: #fff;
   outline: medium none;
+}
+
+.btn {
+  display: inline-block;
+  margin-right: 17px;
+  padding: 16px 40px;
+  background-color: #5b35b3;
+  color: #fff;
+  font-family: 'Roboto', Arial, sans-serif;
+
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #391b7e;
+  color: #fff;
 }
 
 .paragraph {
