@@ -13,23 +13,23 @@ Be creative and develop your own about pages using the responsive layout that bo
 <details>
   <summary>Step 1 - Make a video of Site preview</summary>
 
-  1. If you are using a Mac computer, open **App Store** and search for <h4>[Tap Record](https://apps.apple.com/us/app/taprecord-screen-recorder/id1624223891?mt=12) Screen recorder. <h4> 
+  1. If you are using a Mac computer, open **App Store** and search for [Tap Record](https://apps.apple.com/us/app/taprecord-screen-recorder/id1624223891?mt=12) Screen recorder.
 
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step1.png" alt="Step 1" width="800px" />
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step1.png" alt="Step 1" width="600px" />
   </div>
 
   2. After installing it, open and choose the **Record Screen** 
 
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step2.png" alt="Step 1" width="800px" />
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step2.png" alt="Step 2" width="600px" />
   </div>
 
   3. Then select the recording screen area, and adjust the
   margins
 
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step3.png" alt="Step 2" width="800px"/>
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step3.png" alt="Step 3" width="600px"/>
   </div>
 
   4. Click the 📂 icon and see if you have a <em>.MP4 video file</em>
@@ -44,7 +44,7 @@ Be creative and develop your own about pages using the responsive layout that bo
   and upload the preview video, by clicking on **Upload video** button.
 
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step4.png" alt="Step 4" width="800px" />
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step4.png" alt="Step 4" width="600px" />
   </div>
 
   2. Now, set up the Start time to 0 and the **End time** to <em> 29 seconds or less</em>
@@ -52,13 +52,13 @@ Be creative and develop your own about pages using the responsive layout that bo
   > Note: If you change the size to <em>800 px</em>, the picture is going to take whole width of the screen.
  
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step5.png" alt="Step 5" width="800px" />
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step5.png" alt="Step 5" width="600px" />
   </div>
 
   3. Wait a few minutes, and then **right click** the image and <em>Save image as </em> the <b>[image-name].gif</b>
 
   <div align="left">
-    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step6.png" alt="Step 6" width="800px" />
+    <img src="https://github.com/andresmgomez/about-me-page-template/blob/main/screenshot/record/step6.png" alt="Step 6" width="600px" />
   </div>
 </details>
 
