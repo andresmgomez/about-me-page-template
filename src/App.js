@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar/Navbar";
 import AboutRight from "./components/About/AboutRight/AboutRight";
 import QuoteRight from "./components/Quotes/QuoteRight/QuoteRight";
 import WhyBocaLeft from "./components/WhyBoca/WhyBocaLeft";
@@ -9,11 +10,16 @@ import "./App.css";
 function App() {
 	return (
 		<div className="App">
-			<AboutRight />
-			<QuoteRight />
-			<WhyBocaLeft />
-			<WorkplaceCols />
-			<ProjectDetail />
+			<header>
+				<Navbar />
+			</header>
+			<main>
+				<AboutRight />
+				<QuoteRight />
+				<WhyBocaLeft />
+				<WorkplaceCols />
+				<ProjectDetail />
+			</main>
 		</div>
 	);
 }
